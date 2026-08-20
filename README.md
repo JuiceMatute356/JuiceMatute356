@@ -42,6 +42,7 @@ No computer science degree. The systems are live. Here is the evidence.
 
 `n8n (self-hosted)` `Python` `JavaScript` `TypeScript` `SQL` `Bash`
 `Anthropic Claude` `OpenAI` `DeepSeek` `prompt caching` `structured extraction` `output guardrails`
+`RAG` `embeddings` `vector search` `chunking strategies` `retrieval evals`
 `WhatsApp Cloud API` `Telegram Bot API` `Meta Graph` `Google Workspace OAuth2` `Twilio` `REST` `webhooks`
 `Linux VPS` `Docker` `nginx` `Redis` `SQLite` `Cloudflare Tunnel & Zero Trust` `systemd` `Git`
 
@@ -51,6 +52,7 @@ No computer science degree. The systems are live. Here is the evidence.
 
 - **[AI Sales Assistant](https://github.com/JuiceMatute356/ai-sales-assistant)** - a live WhatsApp assistant that answers vehicle enquiries, books test drives, and runs a finance application to completion. Case study, verification results, and the engineering decisions behind it.
 - **[Try the assistant yourself](https://northgate-motors-sales-assistant-fbhi8i.v2.appdeploy.ai/)** - a sandboxed build against a fictional dealership. Try to talk it into quoting a price it cannot justify. It will refuse, and tell you why.
+- **[grounded-rag](https://github.com/JuiceMatute356/grounded-rag)** - a retrieval system that refuses to answer what its documents do not support, with an eval harness that measures the refusal. Local embeddings, SQLite, no framework. Publishes its failures, not just its wins.
 - **[CV](https://github.com/JuiceMatute356/ai-sales-assistant/blob/main/cv/Innocent_Mariti_CV_AI_Automation_Engineer.pdf)** - full detail, evidence-backed.
 
 ---
