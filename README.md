@@ -15,8 +15,7 @@ No computer science degree. The systems are live. Here is the evidence.
 | | |
 |---|---|
 | Active workflows | **12** live, 54 authored, 2,172 nodes |
-| Executions (last 7 days) | **2,581**, of which 2,580 succeeded |
-| Success rate | **99.96%** |
+| Executions (last 7 days) | **2,581**, one hard failure |
 | Server uptime | **128 days** continuous |
 | Largest single workflow | **489 nodes** |
 
